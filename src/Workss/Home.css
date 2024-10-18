@@ -1,0 +1,22 @@
+.main{
+    width: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 100px;
+    margin-left: 250px;
+  background-color:aliceblue;
+  border-radius: 50px;
+  height:500px;
+}
+.pics{
+    width: 300px;
+}
+.text{
+    font-weight: bold;
+}
+.rono{
+    height: 600px;
+}
+.cc{
+    font-size: 35px;
+}
